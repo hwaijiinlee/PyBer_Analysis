@@ -11,7 +11,7 @@ Similar trends are witnessed across all aspects of our analysis. Urban areas hav
 
 Rural PyBer drivers on the other hand rake in higher average fares than urban drivers. However, with the very low ridership in rural areas, the higher average fare is unlikely to compensate for the lack of volume. 
 
-On the flip side, rural riders pay more per ride than urban riders - about $10 more. The expensive rides might be deterrent enough to discourage rural riders from hiring PyBer in the future.
+Accordingly, rural riders pay more per ride than urban riders - about $10 more. The expensive rides might be deterrent enough to discourage rural riders from hiring PyBer in the future.
 
 ### Seasonality
 In order to see if we can identify seasonality of PyBer rides, we have graphed the total fares earned from each of the three city types from 01/01/2019 to 04/28/2019.
