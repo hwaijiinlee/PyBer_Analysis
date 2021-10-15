@@ -9,7 +9,7 @@ Upon summarizing Pyber's ride-sharing data across the city type, we can see that
 
 Similar trends are witnessed across all aspects of our analysis. Urban areas have 2,405 drivers, whereas rural areas only have 78 drivers. Accordingly, the total fares across the city types differ greatly as well. PyBer drew in total fares of almost $40,000 in urban areas, half as much from suburban riders, and only about a tenth as much (about $4,000) from rural riders.
 
-Rural PyBer drivers on the other hand rake in higher average fares than urban drivers. However, with the very low ridership in rural areas, the higher average fare is unlikely to compensate for the lack of volume. 
+Rural PyBer drivers on the other hand rake in higher average fares than urban drivers, almost $40 more! However, with the very low ridership in rural areas, the higher average fare is unlikely to compensate for the lack of volume. 
 
 Accordingly, rural riders pay more per ride than urban riders - about $10 more. The expensive rides might be deterrent enough to discourage rural riders from hiring PyBer in the future.
 
